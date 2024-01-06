@@ -1,2 +1,2 @@
 # Javascript_journey
-learning javascript from very beginning
+learning javascript from scratch.
