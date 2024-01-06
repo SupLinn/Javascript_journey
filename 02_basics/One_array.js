@@ -9,4 +9,7 @@ const myNewArr = new Array(6, 7, 8, 9, 10); //Here we declare array with an help
 
 //Lets see some of operations that can be performed on arrays 
 myArr.push(8);
+myArr.pop();
+myArr.unshift(77);
+myArr.shift();
 console.log(myArr);
